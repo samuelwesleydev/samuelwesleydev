@@ -1,7 +1,7 @@
-### Olá! eu sou Samuel Wesley 🖐️
+### Olá eu sou Samuel Wesley! 🖐️
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-wesley-03b9a7248/)
 
-![samuel wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelwesleydev&show_icons=true&theme=merko)
+<!-- ![samuel wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelwesleydev&show_icons=true&theme=merko) -->
 
 ## Tecnologias que eu uso no dia a dia
 <div style="display:inline_block;"><br/>
