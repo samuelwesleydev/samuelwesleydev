@@ -1,5 +1,18 @@
 ### Olá eu sou Samuel Wesley! 🖐️
+Estudante de Desenvolvimento web. Apaixonado pela tecnologia desde que tive meu primeiro contato, busco sempre me aprimorar, seja profissional como pessoal. Buscando me tornar um desenvolvedor full-stack. Além disso, faço estudo independetes em ReactJs, NodeJs e Inglês.
+
+
+**Hard skills**
+
+- Javascript
+- HTML e CSS
+- React Js (estudando)
+- Node Js (estudando)
+- Inglês - básico
+- APIs (consumo)
+
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-wesley-03b9a7248/)
+[![Logo do GitHub](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelwesley.contato@gmail.com)
 
 <!-- ![samuel wesley GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelwesleydev&show_icons=true&theme=merko) -->
 
